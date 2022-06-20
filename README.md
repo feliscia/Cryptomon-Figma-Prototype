@@ -4,8 +4,7 @@ Project Members: Winni Joo Ning Lee, Sim Yi Zhun, Shruti Natarajan, Benjamin Chi
 
 # Cryptomon
 
-1) Prototype Link: 
-https://www.figma.com/proto/ap6LJuQrOAzQxn1tCcjEFP/NUS-Money-App-Group-2?node-id=216%3A4110&scaling=min-zoom&page-id=190%3A1465&starting-point-node-id=216%3A4102&show-proto-sidebar=1
+1) Prototype Link: [Click here](https://www.figma.com/proto/ap6LJuQrOAzQxn1tCcjEFP/NUS-Money-App-Group-2?node-id=216%3A4110&scaling=min-zoom&page-id=190%3A1465&starting-point-node-id=216%3A4102&show-proto-sidebar=1)
 
 2) Objective of Project: Design and create a gamified crypto app to educate and simplify financial literacy for young adults.
 
